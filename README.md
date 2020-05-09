@@ -6,7 +6,7 @@
     - [Lien vers le plan national pour la science ouverte](https://www.ouvrirlascience.fr/plan-national-pour-la-science-ouverte/)
     - [Lien vers les Critères d'exemplarité](https://www.ouvrirlascience.fr/criteres-dexemplarite-financements-fonds-national-science-ouverte/)
     - [Lien vers la description de la Commission logiciels libres et open source](https://www.ouvrirlascience.fr/logiciels-libres-et-open-source/)
-    - [Lien vers le document de travail](https://pad.lescommuns.org/XdA5GLatTNWCkzk0lAqHIA?both#)
+    - [Lien vers le **document de travail** - initialisé par Pierre](https://pad.lescommuns.org/XdA5GLatTNWCkzk0lAqHIA?both#)
 - **Highlights**
     - Extraits du [Plan national pour la science ouverte](https://www.ouvrirlascience.fr/plan-national-pour-la-science-ouverte/)
         - La science ouverte est la diffusion sans entrave des publications et des données de la recherche. Elle s’appuie sur l’opportunité que représente la mutation numérique pour développer l’accès ouvert aux publications
